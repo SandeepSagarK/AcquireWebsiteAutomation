@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Aquire Website Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test Scenarios(failed)">
+    <classes>
+      <class name="testScenarios.Testcases">
+        <methods>
+          <include name="navigate_to_newsroom_and_dismiss_alert"/>
+          <include name="cleanup"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testScenarios.Testcases -->
+    </classes>
+  </test> <!-- Test Scenarios(failed) -->
+</suite> <!-- Failed suite [Aquire Website Suite] -->
