@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T01:07:48 ACDT" name="Default suite" finished-at="2023-02-27T01:09:47 ACDT" duration-ms="118740">
+    <groups>
+    </groups>
+    <test started-at="2023-02-27T01:07:48 ACDT" name="Default test" finished-at="2023-02-27T01:09:47 ACDT" duration-ms="118740">
+      <class name="testScenarios.Testcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:07:48 ACDT" name="setup" finished-at="2023-02-27T01:08:33 ACDT" duration-ms="45038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="startTest()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:08:33 ACDT" name="startTest" finished-at="2023-02-27T01:08:34 ACDT" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="navigate_to_contactUs_check_Insuite_enroll_top()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:08:34 ACDT" name="navigate_to_contactUs_check_Insuite_enroll_top" finished-at="2023-02-27T01:08:50 ACDT" duration-ms="15963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_contactUs_check_Insuite_enroll_top -->
+        <test-method signature="navigate_to_homepage_verify_on_acqire_hyperlink()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:08:50 ACDT" name="navigate_to_homepage_verify_on_acqire_hyperlink" finished-at="2023-02-27T01:08:50 ACDT" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_homepage_verify_on_acqire_hyperlink -->
+        <test-method signature="navigate_to_newsroom_dismiss_alert_and_collect_CategoryDropdown_options()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:08:50 ACDT" name="navigate_to_newsroom_dismiss_alert_and_collect_CategoryDropdown_options" finished-at="2023-02-27T01:09:16 ACDT" duration-ms="26575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigate_to_newsroom_dismiss_alert_and_collect_CategoryDropdown_options -->
+        <test-method signature="verify_on_eventsbookings()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:09:16 ACDT" name="verify_on_eventsbookings" finished-at="2023-02-27T01:09:26 ACDT" duration-ms="9449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_on_eventsbookings -->
+        <test-method signature="verify_on_newsroom()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:09:26 ACDT" name="verify_on_newsroom" finished-at="2023-02-27T01:09:33 ACDT" duration-ms="7749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_on_newsroom -->
+        <test-method signature="verify_on_requestsupport()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:09:33 ACDT" name="verify_on_requestsupport" finished-at="2023-02-27T01:09:46 ACDT" duration-ms="12336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_on_requestsupport -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:09:46 ACDT" name="endTest" finished-at="2023-02-27T01:09:46 ACDT" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="cleanup()[pri:0, instance:testScenarios.Testcases@15bb5034]" started-at="2023-02-27T01:09:46 ACDT" name="cleanup" finished-at="2023-02-27T01:09:47 ACDT" duration-ms="740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- testScenarios.Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

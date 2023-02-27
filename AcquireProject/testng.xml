@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Aquire Website Suite">
+  
+  <test name="Test Scenarios">
+      <classes>
+	      <class name="testScenarios.Testcases"/>
+	      	<!-- <methods>
+				  <include name="navigate_to_contactUs_check_Insuite_enroll_top" />
+			  </methods>  -->
+      </classes>
+  </test>
+  
+</suite>
